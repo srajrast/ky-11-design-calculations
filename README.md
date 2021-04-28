@@ -9,4 +9,10 @@ This is a list of all of the MATLAB scripts used to perform calculations when de
 ### Aerodynamics
 **LiftCoeffEstimation.m**: Lift coefficient calculations used for wing design
 
+### Loads/Structures
+**v-n-diagram.m**: Plot of the V-n diagram for the KY-11  
+**WingboxStructure.m**: Initial calculations for determining wing structure
+
+
+
 
