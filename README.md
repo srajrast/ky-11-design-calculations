@@ -25,6 +25,15 @@ This is a list of all of the MATLAB scripts used to perform calculations when de
 **LongitudinalStaticStability.m**: Calculation of longitudinal static stability, neutral point, and static margin  
 **TrimAnalysisLongitudinal.m**: Longitudinal trim analysis at takeoff, cruise, and landing
 
+### Performance
+**Endurance.m**: Endurance calculations  
+**OperatingEnvelope.m**: Plot of the operating envelope  
+**Range.m**: Range calculations  
+**TakeoffAnalysis.m**: Takeoff distance calculations (Landing distance was calculated in a similar way)
+
+## Cost Analysis
+**CostEstimation.m**: Calculation of unit cost and maintenance costs
+
 
 
 
