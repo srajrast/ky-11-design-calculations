@@ -15,8 +15,15 @@ This is a list of all of the MATLAB scripts used to perform calculations when de
 
 ### Weights and C.G.
 **RefinedWeightPt1.m**: Calculation of weights using Raymer's equations (15.1, 15.14-15.24)  
-**RefinedWeightPt2.m**: Calculation of weights using Raymer's equations (15.2-15.13)
+**RefinedWeightPt2.m**: Calculation of weights using Raymer's equations (15.2-15.13)  
 **CGEnvelope.m**: Plot of the C.G. envelope and aircraft C.G. of possible cases  
+
+### Stability
+**AileronControlPower.m**: Calculation of the aileron control power and lateral static stability  
+**DirectionalStabilityAndEngineOutCase.m**: Calculation of the directional static stability and trim analysis with engine out 
+**DirectionalStabilityCrosswindsLandingCase.m**: Directional trim analysis for the crosswinds landing case
+**LongitudinalStaticStability.m**: Calculation of longitudinal static stability, neutral point, and static margin  
+**TrimAnalysisLongitudinal.m**: Longitudinal trim analysis at takeoff, cruise, and landing
 
 
 
