@@ -31,7 +31,7 @@ This is a list of all of the MATLAB scripts used to perform calculations when de
 **Range.m**: Range calculations  
 **TakeoffAnalysis.m**: Takeoff distance calculations (Landing distance was calculated in a similar way)
 
-## Cost Analysis
+### Cost Analysis
 **CostEstimation.m**: Calculation of unit cost and maintenance costs
 
 
