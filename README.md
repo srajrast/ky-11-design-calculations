@@ -21,7 +21,7 @@ This is a list of all of the MATLAB scripts used to perform calculations when de
 ### Stability
 **AileronControlPower.m**: Calculation of the aileron control power and lateral static stability  
 **DirectionalStabilityAndEngineOutCase.m**: Calculation of the directional static stability and trim analysis with engine out 
-**DirectionalStabilityCrosswindsLandingCase.m**: Directional trim analysis for the crosswinds landing case
+**DirectionalStabilityCrosswindsLandingCase.m**: Directional trim analysis for the crosswinds landing case  
 **LongitudinalStaticStability.m**: Calculation of longitudinal static stability, neutral point, and static margin  
 **TrimAnalysisLongitudinal.m**: Longitudinal trim analysis at takeoff, cruise, and landing
 
